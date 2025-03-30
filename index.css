@@ -13,7 +13,7 @@ body{
 }
 .hero-section{
     min-height: 100vh;
-    background:url(/boogybites.jpg);
+    background:url(boogybites.jpg);
     background-size: cover;
     background-position: center;
     position:relative;
